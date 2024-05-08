@@ -1,10 +1,3 @@
-Name of group members:
-Swetha Krishna Sriram [2020B3A71252H]
-P. Sai Shruthi [2020B3A70904H]
-Samyak Goel [2020B2A72442H]
-Harshil Kankane [2020B4A72230H]
-
-
 To compile & run the program for task 3 - 
 
 yacc -d sssh2512.y
